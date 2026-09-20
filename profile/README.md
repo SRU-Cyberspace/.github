@@ -50,8 +50,9 @@ Public GitHub activity for the org and the club website, 2026-2027 school year.
 | --- | --- |
 | President | Tony Waterfall |
 | Vice President | Nolan Koch |
-| Treasurer | Logan W. |
-| Public Relations | Nadia |
+| Secretary | Nadia Sanderson |
+| Treasurer | Kamryn Mcafee |
+| Public Relations | Logan W. |
 
 ## Join
 
